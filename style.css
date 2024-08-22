@@ -313,6 +313,7 @@ section .max-width > .title::after{
 .about .about-content .left .description{
     font-family: 'Poppins';
     font-weight: 500;
+    font-size: 20px;
 }
 
 .about .about-content .left img{
