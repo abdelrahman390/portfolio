@@ -342,6 +342,9 @@ section .max-width > .title::after{
   gap: 20px;
   align-items: center;
 }
+.about .about-content .right .description .container img{
+    height: 35px;
+  }
 
 #card-container .card1:hover{
     transform: scale(1.1);
