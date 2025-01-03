@@ -1,0 +1,130 @@
+{
+  "projects": [
+        {
+      "title": "Translating Website",
+      "description": "full translating website",
+      "coverPhoto": "Screenshot (176).jpg",
+      "link": "https://abdelrahman390.github.io/translating-page/",
+      "state": "hide"
+    },
+    {
+      "title": "landing-page",
+      "description": "loopstudios-landing-page",
+      "coverPhoto": "Screenshot (113).png",
+      "link": "https://abdelrahman390.github.io/loopstudios-landing-page/",
+      "state": "show"
+    },
+    {
+      "title": "Email-Template",
+      "description": "Responsive-Email-Template",
+      "coverPhoto": "Screenshot (114).png",
+      "link": "https://abdelrahman390.github.io/Responsive-Email-Template/",
+      "state": "show"
+    },
+    {
+      "title": "grid-cards",
+      "description": "grid-cards template",
+      "coverPhoto": "desktop-design.jpg",
+      "link": "https://abdelrahman390.github.io/grid-cards/",
+      "state": "show"
+    },
+    {
+      "title": "landing-page",
+      "description": "Huddle landing-page",
+      "coverPhoto": "Screenshot (118).png",
+      "link": "https://abdelrahman390.github.io/landing-pagemaster/",
+      "state": "show"
+    },
+    {
+      "title": "To Do List",
+      "description": "To Do List with JavaScript",
+      "coverPhoto": "Screenshot (636).png",
+      "link": "https://abdelrahman390.github.io/To-Do-List/",
+      "state": "show"
+    },
+    {
+      "title": "Quiz Application",
+      "description": "Quiz Application with JavaScript",
+      "coverPhoto": "Screenshot (662).png",
+      "link": "https://abdelrahman390.github.io/Create-Quiz-Application/",
+      "state": "show"
+    },
+    {
+      "title": "Password Generator",
+      "description": "Password Generator with js",
+      "coverPhoto": "Screenshot (684).png",
+      "link": "https://abdelrahman390.github.io/Password-Generator/",
+      "state": "show"
+    },
+    {
+      "title": "Multi-step form",
+      "description": "Multi-step form with js",
+      "coverPhoto": "Screenshot (712).png",
+      "link": "https://abdelrahman390.github.io/multi-task-form/",
+      "state": "show"
+    },
+    {
+      "title": "URL shortening API",
+      "description": "URL-shortening-API-landing-page with js",
+      "coverPhoto": "Screenshot (685).jpg",
+      "link": "https://abdelrahman390.github.io/URL-shortening-API-landing-page/",
+      "state": "show"
+    },
+    {
+      "title": "Laps calculator app",
+      "description": "Laps calculator app for athletics player with js",
+      "coverPhoto": "laps-app-calculator.png",
+      "link": "https://abdelrahman390.github.io/Laps-calculator-app/",
+      "state": "show"
+    },
+    {
+      "title": "To Do List (Professional) with local storage",
+      "description": "To-Do List with js",
+      "coverPhoto": "Screenshot (130).png",
+      "link": "https://abdelrahman390.github.io/To-Do-List-Professional/",
+      "state": "show"
+    },
+    {
+      "title": "To Do List (Professional) with firebase database",
+      "description": "To-Do List with Firebase database for sharing data across all platforms",
+      "coverPhoto": "Screenshot (420).png",
+      "link": "https://abdelrahman390.github.io/To-Do-List-Professional-with-firebase-database/",
+      "state": "show"
+    },
+    {
+      "title": "50 page website",
+      "description": "full front-end website without a backEnd",
+      "coverPhoto": "Screenshot (234).png",
+      "link": "https://abdelrahman390.github.io/-/index.html",
+      "state": "show"
+    },
+    {
+      "title": "50 page website for admin",
+      "description": "full front-end website without a backEnd",
+      "coverPhoto": "Screenshot (276).png",
+      "link": "https://abdelrahman390.github.io/Quran-Two-Web-Site/index.html",
+      "state": "show"
+    },
+    {
+      "title": "50 page website with React",
+      "description": "full front-end website without a backend (not completed)",
+      "coverPhoto": "Screenshot (234).png",
+      "link": "https://abdelrahman390.github.io/Quran-web-site-with-React/",
+      "state": "show"
+    },
+    {
+      "title": "Simple calculator with React",
+      "description": "Simple calculator with React",
+      "coverPhoto": "Screenshot (431).png",
+      "link": "https://abdelrahman390.github.io/simple-calculator-app-with-react/",
+      "state": "show"
+    },
+    {
+      "title": "Professional portfolio by React",
+      "description": "portfolio by React & chakra library",
+      "coverPhoto": "Screenshot (923).png",
+      "link": "https://abdelrahman390.github.io/Professional-Portfolio-By-React/",
+      "state": "show"
+    }
+  ]
+}
