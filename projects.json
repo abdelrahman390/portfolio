@@ -125,6 +125,20 @@
       "coverPhoto": "Screenshot (923).png",
       "link": "https://abdelrahman390.github.io/Professional-Portfolio-By-React/",
       "state": "show"
+    },
+    {
+      "title": "Chat app",
+      "description": "FireBase in the front-end",
+      "coverPhoto": "Screenshot (847).png",
+      "link": "https://abdelrahman390.github.io/chat-app-with-firebase/",
+      "state": "show"
+    },
+    {
+      "title": "Chat app",
+      "description": "Django & NodeJs - socket.io",
+      "coverPhoto": "Screenshot (847).png",
+      "link": "https://github.com/abdelrahman390/chat-app-with-firebase-typescript-and-backend/blob/main/README.md",
+      "state": "show"
     }
   ]
 }
