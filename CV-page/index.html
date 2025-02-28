@@ -8,11 +8,27 @@
 		<title>Document</title>
 	</head>
 	<body>
-		<iframe
+		<!-- <iframe
 			src="https://drive.google.com/file/d/1rpSYkGEaZdKAHr25_Ii1TRSI0JGHRSwQ/preview"
 			id="pdfViewer"
 		>
-		</iframe>
+		</iframe> -->
+		<iframe id="pdfViewer"></iframe>
+		<script>
+			async function loadPdfFromJson() {
+				try {
+					const response = await fetch("../projects.json"); // Load JSON file
+					const data = await response.json(); // Parse JSON
+					const pdfUrl = data.CVLink; // Extract PDF URL
+
+					document.getElementById("pdfViewer").src = pdfUrl; // Set iframe src
+				} catch (error) {
+					console.error("Error loading JSON:", error);
+				}
+			}
+
+			loadPdfFromJson();
+		</script>
 		<style>
 			/* Make the iframe take up the full screen */
 			#pdfViewer {
