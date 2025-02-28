@@ -1,13 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <title>Document</title>
-</head>
-<body>
-    <embed src="cv.pdf" type="application/pdf" width="100%" height="600px">
-</body>
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="style.css" />
+		<title>Document</title>
+	</head>
+	<body>
+		<iframe
+			src="https://drive.google.com/file/d/1rpSYkGEaZdKAHr25_Ii1TRSI0JGHRSwQ/preview"
+			id="pdfViewer"
+		>
+		</iframe>
+		<style>
+			/* Make the iframe take up the full screen */
+			#pdfViewer {
+				position: fixed;
+				top: 0;
+				left: 0;
+				width: 100%;
+				height: 100vh; /* Full viewport height */
+				border: none; /* Removes the border */
+			}
+		</style>
+	</body>
 </html>
